@@ -58,3 +58,6 @@ function App() {
 }
 
 export default App;
+
+
+// npm install --save chart.js
